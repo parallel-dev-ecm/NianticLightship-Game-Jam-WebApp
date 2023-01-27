@@ -1,1 +1,1 @@
-AR TISTS.
+Web App created with R3F for the Niantics Lightship Game Jam. The webpage is linked to firebase authentication, storage and firestore to help us with the backend of the web-app. You can create a profile, login, view your dashboard with your profile info, and upload local files to the web. 
